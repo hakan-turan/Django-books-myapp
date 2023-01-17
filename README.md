@@ -5,4 +5,4 @@ django-admin startproject mysite
 cd .\mysite\
 python .\manage.py startapp myapp
 python .\manage.py migrate
-python .\manage.py runserver
+python .\manage.py runserver 8001
